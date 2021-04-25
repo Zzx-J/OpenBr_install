@@ -10,7 +10,9 @@ The installation steps are here:
 
 4. be patient and follow the instructions.
 
-The whole installation program was tested on windows10 with OpenCV 4.5.2 and Qt 5.15.2 together with Visual Studio 2019. The generated package is up loaded(OpenBR-1.1.0-win32).
+The whole installation program was tested on windows10 with OpenCV 4.5.2 and Qt 5.15.2 together with Visual Studio 2019. 
+
+The generated package is up loaded(OpenBR-1.1.0-win32) see another repository.
 
 Chose me please !
 Chose me please !!
